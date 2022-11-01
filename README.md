@@ -1,0 +1,2 @@
+# trein
+Aritmética 
